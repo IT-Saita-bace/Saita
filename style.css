@@ -1,7 +1,13 @@
 .test {
     text-align: center;
+    color: yellow;
+    font-size: xx-large;
 }
-h1 {
-    color:chartreuse;
-    font-size: 54px;
+body {
+    background-image: url(/bck.jpg);
+}
+.b {
+    text-align: center;
+    background-color: white;
+    color: yellow;
 }
