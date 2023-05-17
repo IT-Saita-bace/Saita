@@ -3,11 +3,10 @@
     color: yellow;
     font-size: xx-large;
 }
-body {
-    background-image: url(/bck.jpg);
-}
-.b {
+
+.backround {
     text-align: center;
     background-color: white;
     color: yellow;
+    border-color: yellow;
 }
