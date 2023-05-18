@@ -19,7 +19,15 @@
     width: 20rem;
     font-size: 3rem;
     cursor: pointer;
+    transition: all 200ms ease-in;
 }
+
+.backround:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
 .abt {
     border: black;
     margin: auto;
@@ -31,7 +39,16 @@
     width: 20rem;
     font-size: 3rem;
     cursor: pointer;
+    transition: all 200ms ease-in;
 }
+
+.abt:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+
 .redirect-1 {
     border: black;
     margin: auto;
@@ -43,4 +60,11 @@
     width: 10rem;
     font-size: 2rem;
     cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.redirect-1:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
 }
