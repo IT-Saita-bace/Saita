@@ -20,7 +20,19 @@
     font-size: 3rem;
     cursor: pointer;
 }
-.ab {
+.abt {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 35rem;
+    right: 30%;
+    height: 8rem;
+    width: 20rem;
+    font-size: 3rem;
+    cursor: pointer;
+}
+.about {
     border: black;
     margin: auto;
     background-color: yellow;
