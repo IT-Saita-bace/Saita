@@ -32,15 +32,15 @@
     font-size: 3rem;
     cursor: pointer;
 }
-.about {
+.redirect-1 {
     border: black;
     margin: auto;
     background-color: yellow;
     position: absolute;
-    top: 35rem;
-    right: 30%;
-    height: 8rem;
-    width: 20rem;
-    font-size: 3rem;
+    top: 2rem;
+    right: 105rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 2rem;
     cursor: pointer;
 }
