@@ -1,7 +1,7 @@
 .test {
     position: absolute;
     top: 15rem;
-    right: 35%;
+    right: 30%;
     text-align: center;
     color: yellow;
     font-size: 5rem;
@@ -14,7 +14,7 @@
     background-color: yellow;
     position: absolute;
     top: 35rem;
-    right: 55%;
+    right: 50%;
     height: 8rem;
     width: 20rem;
     font-size: 3rem;
@@ -26,7 +26,7 @@
     background-color: yellow;
     position: absolute;
     top: 35rem;
-    right: 35%;
+    right: 30%;
     height: 8rem;
     width: 20rem;
     font-size: 3rem;
