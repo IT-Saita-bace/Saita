@@ -55,7 +55,7 @@
     background-color: yellow;
     position: absolute;
     top: 2rem;
-    right: 105rem;
+    right: 108rem;
     height: 4rem;
     width: 10rem;
     font-size: 2rem;
@@ -64,6 +64,73 @@
 }
 
 .redirect-1:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.redirect-2 {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 96rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.redirect-2:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.kachva {
+    color: yellow;
+    font-size: x-large;
+    position: absolute;
+    top: 6rem;
+}
+
+.redirect-3 {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 108rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 1.7rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.redirect-3:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.redirect-4 {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 96rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.redirect-4:hover { 
     background-color: black;
     color: yellow;
     transition: all 200ms ease-in;
