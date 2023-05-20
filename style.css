@@ -96,7 +96,7 @@
     transition: all 200ms ease-in;
 }
 
-.logo{
+.logo {
     position: absolute;
     right: 10rem;
     top: 10rem;
@@ -105,15 +105,22 @@
 
 }
 
-.aboutus{
+.aboutus {
     position: absolute;
     top: 4.5rem;
 }
 
-.thanks{
-    top: 10rem;
+.tanks {
+    position: absolute;
+    top: 12.5rem;
 }
 
-.tanks{
+.mail1 {
+    position: absolute;
+    top: 23rem;
+}
+
+.mail2 {
+    position: absolute;
     top: 25rem;
 }
