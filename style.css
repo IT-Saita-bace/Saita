@@ -95,3 +95,12 @@
     color: yellow;
     transition: all 200ms ease-in;
 }
+
+.logo{
+    position: absolute;
+    right: 10rem;
+    top: 10rem;
+    height: 25rem;
+    width: 25rem;
+
+}
