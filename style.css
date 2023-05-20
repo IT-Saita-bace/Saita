@@ -134,3 +134,9 @@
     position: absolute;
     top: 6rem;
 }
+
+.dumbells-1 {
+    height: 500px;
+    width: 500px;
+    background-image: url(/pictures/[items]/Screenshot\ 2023-05-20\ 194223.png);
+}
