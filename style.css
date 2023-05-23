@@ -138,6 +138,7 @@
 .dumbell-1 {
     height: 20rem;
     width: 20rem;
+    transition: all 200ms ease-in;
 }
 
 .dumbell-1-stan {
@@ -150,4 +151,8 @@
     text-decoration: none;
     font-size: larger;
     text-align: center;
+}
+
+.dumbell-1:hover {
+    transition: all 200ms ease-in;
 }
