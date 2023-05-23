@@ -136,19 +136,20 @@
 }
 
 .dumbell-1 {
-    height: 20rem;
-    width: 20rem;
+    height: 25rem;
+    width: 25rem;
 }
 
 .dumbell-1-stan {
     position: absolute;
     top: 15rem;
+    right: 80rem;
 }
 
 .p-1 {
     color: yellow;
     text-decoration: none;
-    font-size: larger;
+    font-size: xx-large;
     text-align: center;
 }
 
@@ -163,5 +164,51 @@
     width: 10rem;
     font-size: 2rem;
     cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.dumbells:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.gloves {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 78rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 1.8rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.gloves:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.professional {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 66.5rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 1.6rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.professional:hover { 
+    background-color: black;
+    color: yellow;
     transition: all 200ms ease-in;
 }
