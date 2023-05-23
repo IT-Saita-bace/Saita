@@ -153,6 +153,31 @@
     text-align: center;
 }
 
+.gloves-1 {
+    height: 25rem;
+    width: 25rem;
+}
+
+.gloves-1-stan{
+    position: absolute;
+    top: 15rem;
+    right: 50rem;
+}
+
+.p-2{
+    color: yellow;
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
 .dumbells {
     border: black;
     margin: auto;
@@ -208,6 +233,26 @@
 }
 
 .professional:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.protein {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 55rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.protein:hover { 
     background-color: black;
     color: yellow;
     transition: all 200ms ease-in;
