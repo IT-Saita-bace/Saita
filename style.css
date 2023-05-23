@@ -142,7 +142,7 @@
 
 .dumbell-1-stan {
     position: absolute;
-    top: 20rem;
+    top: 25rem;
     right: 75rem;
 }
 
@@ -160,7 +160,7 @@
 
 .gloves-1-stan{
     position: absolute;
-    top: 20rem;
+    top: 25rem;
     right: 45rem;
 }
 
@@ -173,7 +173,7 @@
 
 .protein-1-stan {
     position: absolute;
-    top: 20rem;
+    top: 25rem;
     right: 15rem;
 }
 
@@ -304,6 +304,137 @@
 }
 
 .hiking:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.cart {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 5rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 3rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.cart:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.work {
+    position: absolute;
+    top: 23rem;
+    right: 24rem;
+    color: yellow;
+    font-size: 7rem;
+}
+
+.boxing-1-stan {
+    position: absolute;
+    top: 10rem;
+    right: 90rem;
+}
+
+.boxing-1 {
+    height: 25rem;
+    width: 25rem;
+}
+
+.g-1{
+    color: yellow;
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.back-1 {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 108rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.back-1:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.boxing-pic {
+    position: absolute;
+    top: 10rem;
+    right: 60rem;
+    height: 40rem;
+    width: 40rem;
+}
+
+.boxing-h2 {
+    position: absolute;
+    top: 23rem;
+    right: 20rem;
+    color: yellow;
+    font-size: 3rem;
+}
+
+.boxing-p {
+    position: absolute;
+    top: 27rem;
+    right: 30rem;
+    font-size: 2.5rem;;
+    font-style: italic;
+    color: yellow;
+}
+
+.boxing-back {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 108rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.boxing-back:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.boxing-cart {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 35rem;
+    right: 28rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 1.8rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.boxing-cart:hover { 
     background-color: black;
     color: yellow;
     transition: all 200ms ease-in;
