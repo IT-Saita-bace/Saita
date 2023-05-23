@@ -142,8 +142,8 @@
 
 .dumbell-1-stan {
     position: absolute;
-    top: 15rem;
-    right: 80rem;
+    top: 20rem;
+    right: 75rem;
 }
 
 .p-1 {
@@ -160,8 +160,8 @@
 
 .gloves-1-stan{
     position: absolute;
-    top: 15rem;
-    right: 50rem;
+    top: 20rem;
+    right: 45rem;
 }
 
 .p-2{
@@ -171,12 +171,23 @@
     text-align: center;
 }
 
+.protein-1-stan {
+    position: absolute;
+    top: 20rem;
+    right: 15rem;
+}
 
+.protein-1 {
+    height: 25rem;
+    width: 25rem;
+}
 
-
-
-
-
+.p-3 {
+    color: yellow;
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+}
 
 .dumbells {
     border: black;
