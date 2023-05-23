@@ -55,10 +55,10 @@
     background-color: yellow;
     position: absolute;
     top: 2rem;
-    right: 108rem;
-    height: 4rem;
-    width: 10rem;
-    font-size: 2rem;
+    right: 112rem;
+    height: 4.5rem;
+    width: 7rem;
+    font-size: 1.9rem;
     cursor: pointer;
     transition: all 200ms ease-in;
 }
@@ -194,8 +194,8 @@
     margin: auto;
     background-color: yellow;
     position: absolute;
-    top: 2rem;
-    right: 90rem;
+    top: 12rem;
+    right: 109rem;
     height: 4rem;
     width: 10rem;
     font-size: 2rem;
@@ -315,10 +315,10 @@
     background-color: yellow;
     position: absolute;
     top: 2rem;
-    right: 5rem;
-    height: 4rem;
-    width: 10rem;
-    font-size: 3rem;
+    right: 2rem;
+    height: 4.5rem;
+    width: 7rem;
+    font-size: 2.5rem;
     cursor: pointer;
     transition: all 200ms ease-in;
 }
@@ -438,4 +438,22 @@
     background-color: black;
     color: yellow;
     transition: all 200ms ease-in;
+}
+
+.cvqt {
+    position: absolute;
+    top: 0rem;
+    right: 0rem;
+    background-color: #202020;
+    height: 10rem;
+    width: 150rem;
+}
+
+.opit {
+    position: absolute;
+    top: 8rem;
+    right: 0rem;
+    height: 2rem;
+    width: 150rem;
+    background-color: black;
 }
