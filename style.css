@@ -288,3 +288,23 @@
     color: yellow;
     transition: all 200ms ease-in;
 }
+
+.hiking {
+    border: black;
+    margin: auto;
+    background-color: yellow;
+    position: absolute;
+    top: 2rem;
+    right: 31rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 1.75rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.hiking:hover { 
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
