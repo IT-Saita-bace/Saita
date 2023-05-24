@@ -192,10 +192,10 @@
 .dumbells {
     border: black;
     margin: auto;
-    background-color: yellow;
+    background-color: palevioletred;
     position: absolute;
     top: 12rem;
-    right: 109rem;
+    right: 109.3rem;
     height: 4rem;
     width: 10rem;
     font-size: 2rem;
@@ -205,7 +205,7 @@
 
 .dumbells:hover { 
     background-color: black;
-    color: yellow;
+    color: palevioletred;
     transition: all 200ms ease-in;
 }
 
@@ -214,8 +214,8 @@
     margin: auto;
     background-color: yellow;
     position: absolute;
-    top: 2rem;
-    right: 78rem;
+    top: 17.5rem;
+    right: 109.3rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.8rem;
@@ -234,8 +234,8 @@
     margin: auto;
     background-color: yellow;
     position: absolute;
-    top: 2rem;
-    right: 66.5rem;
+    top: 23rem;
+    right: 109.3rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.6rem;
@@ -254,8 +254,8 @@
     margin: auto;
     background-color: yellow;
     position: absolute;
-    top: 2rem;
-    right: 55rem;
+    top: 28.5rem;
+    right: 109.3rem;
     height: 4rem;
     width: 10rem;
     font-size: 2rem;
@@ -274,8 +274,8 @@
     margin: auto;
     background-color: yellow;
     position: absolute;
-    top: 2rem;
-    right: 43rem;
+    top: 34rem;
+    right: 109.3rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.75rem;
@@ -456,4 +456,13 @@
     height: 2rem;
     width: 150rem;
     background-color: black;
+}
+
+.opit-2 {
+    position: absolute;
+    right: 108rem;
+    top: 10rem;
+    background-color: #202020;
+    height: 57.5rem;
+    width: 12rem;
 }
