@@ -212,7 +212,7 @@
 .gloves {
     border: black;
     margin: auto;
-    background-color: yellow;
+    background-color: palevioletred;
     position: absolute;
     top: 17.5rem;
     right: 109.3rem;
@@ -225,14 +225,14 @@
 
 .gloves:hover { 
     background-color: black;
-    color: yellow;
+    color: palevioletred;
     transition: all 200ms ease-in;
 }
 
 .professional {
     border: black;
     margin: auto;
-    background-color: yellow;
+    background-color: palevioletred;
     position: absolute;
     top: 23rem;
     right: 109.3rem;
@@ -245,14 +245,14 @@
 
 .professional:hover { 
     background-color: black;
-    color: yellow;
+    color: palevioletred;
     transition: all 200ms ease-in;
 }
 
 .protein {
     border: black;
     margin: auto;
-    background-color: yellow;
+    background-color: palevioletred;
     position: absolute;
     top: 28.5rem;
     right: 109.3rem;
@@ -265,14 +265,14 @@
 
 .protein:hover { 
     background-color: black;
-    color: yellow;
+    color: palevioletred;
     transition: all 200ms ease-in;
 }
 
 .sports {
     border: black;
     margin: auto;
-    background-color: yellow;
+    background-color: palevioletred;
     position: absolute;
     top: 34rem;
     right: 109.3rem;
@@ -285,17 +285,17 @@
 
 .sports:hover { 
     background-color: black;
-    color: yellow;
+    color: palevioletred;
     transition: all 200ms ease-in;
 }
 
 .hiking {
     border: black;
     margin: auto;
-    background-color: yellow;
+    background-color: palevioletred;
     position: absolute;
-    top: 2rem;
-    right: 31rem;
+    top: 39.5rem;
+    right: 109.3rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.75rem;
@@ -305,7 +305,7 @@
 
 .hiking:hover { 
     background-color: black;
-    color: yellow;
+    color: palevioletred;
     transition: all 200ms ease-in;
 }
 
@@ -462,7 +462,24 @@
     position: absolute;
     right: 108rem;
     top: 10rem;
-    background-color: #202020;
+    background-color: #808080;
     height: 57.5rem;
     width: 12rem;
+}
+
+.opit-3 {
+    position: absolute;
+    top: 8rem;
+    right: 106rem;
+    height: 59rem;
+    width: 2rem;
+    background-color: black;
+}
+
+.ime {
+    position: absolute;
+    top: 0rem;
+    right: 40rem;
+    color: yellow;
+    font-size: 3.5rem;
 }
