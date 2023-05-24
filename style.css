@@ -408,19 +408,19 @@
 
 .boxing-h2 {
     position: absolute;
-    top: 23rem;
-    right: 20rem;
-    color: yellow;
+    top: 10rem;
+    right: 5rem;
+    color: palevioletred;
     font-size: 3rem;
 }
 
 .boxing-p {
     position: absolute;
-    top: 27rem;
-    right: 30rem;
+    top: 15rem;
+    right: 5rem;
     font-size: 2.5rem;;
     font-style: italic;
-    color: yellow;
+    color: palevioletred;
 }
 
 .boxing-back {
@@ -448,11 +448,11 @@
     margin: auto;
     background-color: yellow;
     position: absolute;
-    top: 35rem;
-    right: 28rem;
-    height: 4rem;
-    width: 10rem;
-    font-size: 1.8rem;
+    top: 23rem;
+    right: 11rem;
+    height: 5rem;
+    width: 11rem;
+    font-size: 2rem;
     cursor: pointer;
     transition: all 200ms ease-in;
 }
@@ -514,4 +514,13 @@
     height: 67.5rem;
     width: 35rem;
     background-color: #585858;
+}
+
+.boxing-info{
+    color:
+    yellow;
+    position: absolute;
+    font-size: x-large;
+    top: 33rem;
+    right: 4rem;
 }
