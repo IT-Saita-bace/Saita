@@ -483,3 +483,12 @@
     color: yellow;
     font-size: 3.5rem;
 }
+
+.cvqt-1 {
+    position: absolute;
+    top: 0rem;
+    right:0rem;
+    height: 67.5rem;
+    width: 35rem;
+    background-color: #585858;
+}
