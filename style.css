@@ -110,6 +110,23 @@
     top: 4.5rem;
 }
 
+.thanks {
+    position: absolute;
+    color:palevioletred;
+    top: 28rem;
+}
+
+.thanks2 {
+    position: absolute;
+    color:palevioletred;
+    top: 25.1rem;
+}
+.aboutus1 {
+    position: absolute;
+    color: palevioletred;
+    top: 20.5rem;
+}
+
 .tanks {
     position: absolute;
     top: 12.5rem;
@@ -117,22 +134,28 @@
 
 .mail1 {
     position: absolute;
-    top: 23rem;
+    top: 32.8rem;
 }
 
 .mail2 {
     position: absolute;
-    top: 25rem;
+    top: 35rem;
 }
 
 .vryzka {
     position: absolute;
-    top: 25rem;
+    top: 33.2rem;
 }
 
 .vryzka-1 {
     position: absolute;
     top: 6rem;
+}
+
+.vryzka-2 {
+    position: absolute;
+    color:palevioletred;
+    top: 35.3rem;
 }
 
 .dumbell-1 {
