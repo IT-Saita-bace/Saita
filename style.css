@@ -55,7 +55,7 @@
     background-color: yellow;
     position: absolute;
     top: 2rem;
-    right: 112rem;
+    right: 110.4rem;
     height: 4.5rem;
     width: 7rem;
     font-size: 1.9rem;
@@ -218,7 +218,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 12rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 2rem;
@@ -238,7 +238,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 17.5rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.8rem;
@@ -258,7 +258,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 23rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.6rem;
@@ -278,7 +278,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 28.5rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 2rem;
@@ -298,7 +298,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 34rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.75rem;
@@ -318,7 +318,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 39.5rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.75rem;
@@ -483,17 +483,17 @@
 
 .opit-2 {
     position: absolute;
-    right: 108rem;
+    right: 105rem;
     top: 10rem;
     background-color: #808080;
     height: 82rem;
-    width: 12rem;
+    width: 15rem;
 }
 
 .opit-3 {
     position: absolute;
     top: 8rem;
-    right: 106rem;
+    right: 104rem;
     height: 84rem;
     width: 2rem;
     background-color: black;
