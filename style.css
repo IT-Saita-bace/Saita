@@ -578,3 +578,12 @@
     font-size: xx-large;
     text-align: center;
 }
+
+.final {
+    position: absolute;
+    top: 0rem;
+    right: 0rem;
+    height: 10rem;
+    width: 170rem;
+    background-color: #202020;
+}
