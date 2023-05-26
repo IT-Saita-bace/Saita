@@ -55,12 +55,13 @@
     background-color: yellow;
     position: absolute;
     top: 2rem;
-    right: 112rem;
+    right: 110.4rem;
     height: 4.5rem;
     width: 7rem;
     font-size: 1.9rem;
     cursor: pointer;
     transition: all 200ms ease-in;
+    border-radius: 12px;
 }
 
 .redirect-1:hover { 
@@ -244,7 +245,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 12rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 2rem;
@@ -264,7 +265,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 17.5rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.8rem;
@@ -284,7 +285,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 23rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.6rem;
@@ -304,7 +305,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 28.5rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 2rem;
@@ -324,7 +325,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 34rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.75rem;
@@ -344,7 +345,7 @@
     background-color: palevioletred;
     position: absolute;
     top: 39.5rem;
-    right: 109.3rem;
+    right: 107.5rem;
     height: 4rem;
     width: 10rem;
     font-size: 1.75rem;
@@ -370,6 +371,7 @@
     font-size: 2.5rem;
     cursor: pointer;
     transition: all 200ms ease-in;
+    border-radius: 12px;
 }
 
 .cart:hover { 
@@ -388,13 +390,13 @@
 
 .boxing-1-stan {
     position: absolute;
-    top: 25rem;
-    right: 71rem;
+    top: 15rem;
+    right: 60rem;
 }
 
 .boxing-1 {
-    height: 25rem;
-    width: 25rem;
+    height: 30rem;
+    width: 30rem;
 }
 
 .g-1{
@@ -434,19 +436,19 @@
 
 .boxing-h2 {
     position: absolute;
-    top: 23rem;
-    right: 20rem;
-    color: yellow;
+    top: 10rem;
+    right: 5rem;
+    color: palevioletred;
     font-size: 3rem;
 }
 
 .boxing-p {
     position: absolute;
-    top: 27rem;
-    right: 30rem;
+    top: 15rem;
+    right: 5rem;
     font-size: 2.5rem;;
     font-style: italic;
-    color: yellow;
+    color: palevioletred;
 }
 
 .boxing-back {
@@ -474,11 +476,11 @@
     margin: auto;
     background-color: yellow;
     position: absolute;
-    top: 35rem;
-    right: 28rem;
-    height: 4rem;
-    width: 10rem;
-    font-size: 1.8rem;
+    top: 23rem;
+    right: 11rem;
+    height: 5rem;
+    width: 11rem;
+    font-size: 2rem;
     cursor: pointer;
     transition: all 200ms ease-in;
 }
@@ -509,18 +511,18 @@
 
 .opit-2 {
     position: absolute;
-    right: 108rem;
+    right: 105rem;
     top: 10rem;
     background-color: #808080;
-    height: 57.5rem;
-    width: 12rem;
+    height: 82rem;
+    width: 15rem;
 }
 
 .opit-3 {
     position: absolute;
     top: 8rem;
-    right: 106rem;
-    height: 59.5rem;
+    right: 104rem;
+    height: 84rem;
     width: 2rem;
     background-color: black;
 }
@@ -540,4 +542,76 @@
     height: 67.5rem;
     width: 35rem;
     background-color: #585858;
+}
+
+.boxing-info{
+    color:
+    yellow;
+    position: absolute;
+    font-size: x-large;
+    top: 33rem;
+    right: 4rem;
+}
+
+.ufc-1 {
+    height: 30rem;
+    width: 30rem;
+}
+
+.ufc-1-stan{
+    position: absolute;
+    top: 15rem;
+    right: 15rem;
+}
+
+.g-2{
+    color: yellow;
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.knuckles-1-stan {
+    position: absolute;
+    top: 55rem;
+    right: 60rem;
+}
+
+.knuckles-1 {
+    height: 30rem;
+    width: 30rem;
+}
+
+.g-3 {
+    color: yellow;
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.winter-1-stan {
+    position: absolute;
+    top: 55rem;
+    right: 15rem;
+}
+
+.winter-1 {
+    height: 30rem;
+    width: 30rem;
+}
+
+.g-4 {
+    color: yellow;
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.final {
+    position: absolute;
+    top: 0rem;
+    right: 0rem;
+    height: 10rem;
+    width: 170rem;
+    background-color: #202020;
 }
