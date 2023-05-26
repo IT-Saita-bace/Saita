@@ -109,6 +109,7 @@
 .aboutus {
     position: absolute;
     top: 4.5rem;
+    width: 45rem;
 }
 
 .thanks {
@@ -122,7 +123,7 @@
 .thanks2 {
     position: absolute;
     color:palevioletred;
-    top: 9.2rem;
+    top: 9.1rem;
     left: 46rem;
     width: 45rem;
 }
@@ -136,17 +137,18 @@
 
 .tanks {
     position: absolute;
-    top: 12.5rem;
+    top: 12.6rem;
+    width: 45rem;
 }
 
 .mail1 {
     position: absolute;
-    top: 17.4rem;
+    top: 17.3rem;
 }
 
 .mail2 {
     position: absolute;
-    top: 19.7rem;
+    top: 19.56rem;
 }
 
 .mail3 {
