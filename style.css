@@ -61,6 +61,7 @@
     font-size: 1.9rem;
     cursor: pointer;
     transition: all 200ms ease-in;
+    border-radius: 12px;
 }
 
 .redirect-1:hover { 
@@ -344,6 +345,7 @@
     font-size: 2.5rem;
     cursor: pointer;
     transition: all 200ms ease-in;
+    border-radius: 12px;
 }
 
 .cart:hover { 
