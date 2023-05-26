@@ -98,8 +98,8 @@
 
 .logo {
     position: absolute;
-    right: 10rem;
-    top: 10rem;
+    right: 5rem;
+    top: 3rem;
     height: 25rem;
     width: 25rem;
 
@@ -113,18 +113,24 @@
 .thanks {
     position: absolute;
     color:palevioletred;
-    top: 28rem;
+    left: 46rem;
+    top: 12.5rem;
+    width: 45rem;
 }
 
 .thanks2 {
     position: absolute;
     color:palevioletred;
-    top: 25.1rem;
+    top: 9.2rem;
+    left: 46rem;
+    width: 45rem;
 }
 .aboutus1 {
     position: absolute;
     color: palevioletred;
-    top: 20.5rem;
+    top: 4.5rem;
+    left: 46rem;
+    width: 45rem;
 }
 
 .tanks {
@@ -134,17 +140,35 @@
 
 .mail1 {
     position: absolute;
-    top: 32.8rem;
+    top: 17.4rem;
 }
 
 .mail2 {
     position: absolute;
-    top: 35rem;
+    top: 19.7rem;
+}
+
+.mail3 {
+    position: absolute;
+    top: 3.2rem;
+}
+
+.mail4 {
+    position: absolute;
+    top: 5.4rem;
+}
+
+.en-about {
+    position: absolute;
+    color: palevioletred;
+    top: 0rem;
+    left: 46rem;
+    width: 45rem;
 }
 
 .vryzka {
     position: absolute;
-    top: 33.2rem;
+    top: 20rem;
 }
 
 .vryzka-1 {
@@ -155,7 +179,9 @@
 .vryzka-2 {
     position: absolute;
     color:palevioletred;
-    top: 35.3rem;
+    top: 20rem;
+    left: 46rem;
+    width: 45rem;
 }
 
 .dumbell-1 {
