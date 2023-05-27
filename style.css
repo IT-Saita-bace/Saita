@@ -244,7 +244,7 @@
 .dumbells {
     border: black;
     margin: auto;
-    background-color: palevioletred;
+    background-color: #ADD8E6;
     position: absolute;
     top: 12rem;
     right: 107.5rem;
@@ -257,14 +257,14 @@
 
 .dumbells:hover { 
     background-color: black;
-    color: palevioletred;
+    color: #ADD8E6;
     transition: all 200ms ease-in;
 }
 
 .gloves {
     border: black;
     margin: auto;
-    background-color: palevioletred;
+    background-color: #ADD8E6;
     position: absolute;
     top: 17.5rem;
     right: 107.5rem;
@@ -277,14 +277,14 @@
 
 .gloves:hover { 
     background-color: black;
-    color: palevioletred;
+    color: #ADD8E6;
     transition: all 200ms ease-in;
 }
 
 .professional {
     border: black;
     margin: auto;
-    background-color: palevioletred;
+    background-color: #ADD8E6;
     position: absolute;
     top: 23rem;
     right: 107.5rem;
@@ -297,14 +297,14 @@
 
 .professional:hover { 
     background-color: black;
-    color: palevioletred;
+    color: #ADD8E6;
     transition: all 200ms ease-in;
 }
 
 .protein {
     border: black;
     margin: auto;
-    background-color: palevioletred;
+    background-color: #ADD8E6;
     position: absolute;
     top: 28.5rem;
     right: 107.5rem;
@@ -317,14 +317,14 @@
 
 .protein:hover { 
     background-color: black;
-    color: palevioletred;
+    color: #ADD8E6;
     transition: all 200ms ease-in;
 }
 
 .sports {
     border: black;
     margin: auto;
-    background-color: palevioletred;
+    background-color: #ADD8E6;
     position: absolute;
     top: 34rem;
     right: 107.5rem;
@@ -337,14 +337,14 @@
 
 .sports:hover { 
     background-color: black;
-    color: palevioletred;
+    color: #ADD8E6;
     transition: all 200ms ease-in;
 }
 
 .hiking {
     border: black;
     margin: auto;
-    background-color: palevioletred;
+    background-color: #ADD8E6;
     position: absolute;
     top: 39.5rem;
     right: 107.5rem;
@@ -357,7 +357,7 @@
 
 .hiking:hover { 
     background-color: black;
-    color: palevioletred;
+    color: #ADD8E6;
     transition: all 200ms ease-in;
 }
 
