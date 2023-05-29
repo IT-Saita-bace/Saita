@@ -98,6 +98,27 @@
     transition: all 200ms ease-in;
 }
 
+.redirect-4 {
+    border: black;
+    margin: auto;
+    background-color: #ADD8E6;
+    position: absolute;
+    top: 2rem;
+    right: 108rem;
+    height: 4rem;
+    width: 10rem;
+    font-size: 2rem;
+    cursor: pointer;
+    border-radius: 12px;
+    transition: all 200ms ease-in;
+}
+
+.redirect-4:hover { 
+    background-color: black;
+    color: #ADD8E6;
+    transition: all 200ms ease-in;
+}
+
 .logo {
     position: absolute;
     right: 5rem;
