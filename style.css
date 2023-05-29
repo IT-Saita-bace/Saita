@@ -101,7 +101,7 @@
 .logo {
     position: absolute;
     right: 5rem;
-    top: 3rem;
+    top: 9rem;
     height: 25rem;
     width: 25rem;
 
@@ -253,6 +253,7 @@
     width: 10rem;
     font-size: 2rem;
     cursor: pointer;
+    border-radius: 12px;
     transition: all 200ms ease-in;
 }
 
@@ -273,6 +274,7 @@
     width: 10rem;
     font-size: 1.8rem;
     cursor: pointer;
+    border-radius: 12px;
     transition: all 200ms ease-in;
 }
 
@@ -293,6 +295,7 @@
     width: 10rem;
     font-size: 1.6rem;
     cursor: pointer;
+    border-radius: 12px;
     transition: all 200ms ease-in;
 }
 
@@ -313,6 +316,7 @@
     width: 10rem;
     font-size: 2rem;
     cursor: pointer;
+    border-radius: 12px;
     transition: all 200ms ease-in;
 }
 
@@ -333,6 +337,7 @@
     width: 10rem;
     font-size: 1.75rem;
     cursor: pointer;
+    border-radius: 12px;
     transition: all 200ms ease-in;
 }
 
@@ -353,6 +358,7 @@
     width: 10rem;
     font-size: 1.75rem;
     cursor: pointer;
+    border-radius: 12px;
     transition: all 200ms ease-in;
 }
 
@@ -465,6 +471,7 @@
     width: 10rem;
     font-size: 2rem;
     cursor: pointer;
+    border-radius: 12px;
     transition: all 200ms ease-in;
 }
 
@@ -616,5 +623,14 @@
     right: 0rem;
     height: 10rem;
     width: 170rem;
+    background-color: #202020;
+}
+
+.about-top {
+    position: absolute;
+    top: 0rem;
+    right: 0rem;
+    height: 8rem;
+    width: 120rem;
     background-color: #202020;
 }
