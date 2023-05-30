@@ -405,8 +405,7 @@
 }
 
 .cart:hover { 
-    background-color: black;
-    color: yellow;
+    background-color: #ADD8E6;
     transition: all 200ms ease-in;
 }
 
