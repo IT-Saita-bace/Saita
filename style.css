@@ -405,7 +405,7 @@
 }
 
 .cart:hover { 
-    background-color: black;
+    background-color: #ADD8E6;
     color: yellow;
     transition: all 200ms ease-in;
 }
@@ -659,4 +659,179 @@
 .cart-img {
     height: 3.5rem;
     width: 4rem;
+}
+
+.sorry {
+    position: absolute;
+    top: 40rem;
+    right: 31rem;
+    font-size: 1.5rem;
+    color: #ADD8E6;
+}
+
+.field {
+    position: absolute;
+    top: 28rem;
+    right: 45rem;
+    height: 3rem;
+    width: 30rem;
+}
+
+.receipt-cart {
+    position: absolute;
+    top: 10rem;
+    right: 70rem;
+    height: 50rem;
+    width: 50rem;
+}
+
+.coupon-h {
+    position: absolute;
+    top: 22rem;
+    right: 24rem;
+    font-size: 3rem;
+    color: yellow;
+}
+
+.coupon-add {
+    position: absolute;
+    top: 38rem;
+    right: 31rem;
+    background-color: yellow;
+    color: black;
+    border-radius: 12px;
+    height: 4rem;
+    width: 9rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.coupon-add:hover {
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.added {
+    position: absolute;
+    top: 35rem;
+    right: 32rem;
+    color: greenyellow;
+}
+
+.pay {
+    position: absolute;
+    top: 43rem;
+    right: 31rem;
+    background-color: yellow;
+    color: black;
+    border-radius: 12px;
+    height: 4rem;
+    width: 9rem;
+    font-size: 1.3rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.pay:hover {
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.pay-card {
+    position: absolute;
+    top: 35rem;
+    right: 45rem;
+    height: 3rem;
+    width: 30rem;
+}
+
+.pay-code {
+    position: absolute;
+    top: 40rem;
+    right: 45rem;
+    height: 3rem;
+    width: 30rem;
+}
+
+.pay-date {
+    position: absolute;
+    top: 45rem;
+    right: 45rem;
+    height: 3rem;
+    width: 30rem;
+}
+
+.pay-back {
+    position: absolute;
+    top: 18rem;
+    right: 40rem;
+    height: 40rem;
+    width: 40rem;
+}
+
+.pay-h {
+    position: absolute;
+    top: 20rem;
+    right: 55rem;
+    color: yellow;
+    font-size: 3rem;
+}
+
+.pay-final {
+    position: absolute;
+    top: 51rem;
+    right: 56rem;
+    background-color: yellow;
+    color: black;
+    border-radius: 12px;
+    height: 4rem;
+    width: 9rem;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.pay-final:hover {
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.final-page {
+    position: absolute;
+    top: 20rem;
+    right: 30rem;
+    font-size: 4rem;
+    color: #ADD8E6;
+}
+
+.final-button {
+    position: absolute;
+    top: 35rem;
+    right: 50rem;
+    background-color: yellow;
+    color: black;
+    border-radius: 12px;
+    height: 8rem;
+    width: 20rem;
+    font-size: 4rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.final-button:hover {
+    background-color: black;
+    color: yellow;
+    transition: all 200ms ease-in;
+}
+
+.field-1 {
+    position: absolute;
+    top: 32rem;
+    right: 20rem;
+    height: 3rem;
+    width: 30rem;
 }
