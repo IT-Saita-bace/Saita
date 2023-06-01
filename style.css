@@ -716,9 +716,10 @@
 
 .added {
     position: absolute;
-    top: 35rem;
-    right: 32rem;
+    top: 37rem;
+    right: 31rem;
     color: greenyellow;
+    font-size: 1.5rem;
 }
 
 .pay {
