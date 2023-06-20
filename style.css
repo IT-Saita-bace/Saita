@@ -670,7 +670,7 @@
 
 .field {
     position: absolute;
-    top: 28rem;
+    top: 24rem;
     right: 45rem;
     height: 3rem;
     width: 30rem;
@@ -742,7 +742,7 @@
 
 .pay-card {
     position: absolute;
-    top: 35rem;
+    top: 31rem;
     right: 45rem;
     height: 3rem;
     width: 30rem;
@@ -750,7 +750,7 @@
 
 .pay-code {
     position: absolute;
-    top: 40rem;
+    top: 36rem;
     right: 45rem;
     height: 3rem;
     width: 30rem;
@@ -758,7 +758,7 @@
 
 .pay-date {
     position: absolute;
-    top: 45rem;
+    top: 41rem;
     right: 45rem;
     height: 3rem;
     width: 30rem;
@@ -766,7 +766,7 @@
 
 .pay-back {
     position: absolute;
-    top: 18rem;
+    top: 14rem;
     right: 40rem;
     height: 40rem;
     width: 40rem;
@@ -774,7 +774,7 @@
 
 .pay-h {
     position: absolute;
-    top: 20rem;
+    top: 14rem;
     right: 55rem;
     color: yellow;
     font-size: 3rem;
@@ -782,7 +782,7 @@
 
 .pay-final {
     position: absolute;
-    top: 51rem;
+    top: 47rem;
     right: 56rem;
     background-color: yellow;
     color: black;
@@ -798,6 +798,34 @@
     background-color: black;
     color: yellow;
     transition: all 200ms ease-in;
+}
+
+.adress {
+    position: absolute;
+    top: 47rem;
+    right: 56rem;
+    background-color: #ADD8E6;
+    color: black;
+    border-radius: 12px;
+    height: 4rem;
+    width: 9rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
+.adress:hover {
+    background-color: black;
+    color: #ADD8E6;
+    transition: all 200ms ease-in;
+}
+
+.adress-h {
+    position: absolute;
+    top: 13rem;
+    right: 55rem;
+    color: #056f92 ;
+    font-size: 3rem;
 }
 
 .final-page {
